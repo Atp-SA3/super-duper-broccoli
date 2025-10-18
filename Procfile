@@ -1,1 +1,1 @@
-worker: node bot.mjs
+web: node bot_server.mjs
